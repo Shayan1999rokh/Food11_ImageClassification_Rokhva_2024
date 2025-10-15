@@ -1,4 +1,3 @@
-ChatGPT said:
 
 Food11 Image Classification using Convolutional Neural Networks (MobileNetV2)
 
